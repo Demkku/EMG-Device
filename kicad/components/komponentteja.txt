@@ -1,0 +1,8 @@
+LM2576 
+LM1117
+ainakin 100uF elektrolyytti konkka:
+http://www.spelektroniikka.fi/p19624-100uf-16v-40-105-astetta-koko-n-63-x-53-mm-fi.html
+x6
+
+
+74HC1G08GW
