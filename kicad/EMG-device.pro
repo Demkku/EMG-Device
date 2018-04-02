@@ -1,4 +1,4 @@
-update=31.3.2018 21.26.36
+update=2.4.2018 12.17.45
 version=1
 last_client=kicad
 [pcbnew]
@@ -79,15 +79,15 @@ LibName49=yleiset kirjastot/SparkFun-Kicad-Libraries-master/SparkFun-Sensors
 LibName50=yleiset kirjastot/SparkFun-Kicad-Libraries-master/Teensy_3_and_LC_Series_Boards_v1.1
 LibName51=yleiset kirjastot/SparkFun-Kicad-Libraries-master/User-Submitted
 LibName52=components/KiCAD_lib
-[general]
-version=1
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
 PlotDirectoryName=
 SubpartIdSeparator=0
 SubpartFirstId=65
-NetFmtName=
+NetFmtName=Pcbnew
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=59
+[general]
+version=1
