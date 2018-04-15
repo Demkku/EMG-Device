@@ -37,7 +37,7 @@ After brainstorming requrements set:
 [add picture here]
 
 Kicad schematics started:
-<img src="EMG-Device/prints/v1_0_done.pdf" alt="hi" class="inline"/>
+[picture to be added]
 
 Kicad schematics done after a lot of reading about op amps:
 [picture of complete]
