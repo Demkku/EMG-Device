@@ -49,7 +49,86 @@ The repositery and site created
 
 ## Start of the project:
 
-The aim of the project is to create a device capable of reading EMG signal from your muscles. The signal is used to control a simple device
+Introductory report, EMG-Device
+
+521159P Principles of Digital Fabrication 
+DIGIFAB10 
+
+The idea is to build a device that can measure EMG signal. EMG signals are created when muscles are used, and nerve impulses are sent. Impulses create a potential difference in the order of 1-10mV which is amplified, filtered and read with an Arduino. To meet course requirements an enclosure will be 3D printed and something laser cut. We arrived at the idea of an EMG device as a combination interest to the subject of bio signals, the challenge and courses about op amps are running in parallel with this course, so we can use in practice what we have learned. 
+
+Other project that we thought of was an Arduino tank that could locate WIFI signal sources, but this would have been very software heavy, and because we are EE students, we wanted to put emphasis on hardware. Also locating sources turns out to be very hard. Our back up plan is an EKG device, which instead of 3 measuring lanes, uses only one.
+
+BOM:
+QTY	Component type	Package	Source	Price(eur)	URL
+
+10	0.1uF capacitor	1206	Electronics club	0	
+
+1	1uF capacitor	0603	Johannes	0	
+
+1	12nF capacitor	0603	Johannes	0	
+
+1	20nF capacitor	0603	Johannes	0	
+
+3	47uF capacitor	5x5mm	Johannes	0	
+
+1	47pF capacitor	0603	Johannes	0	
+
+2	10uF tant. Cap.	1206?	Electronics club	0	
+
+2	SMD LED	0603	Johannes	0	
+
+2	1N4148W-F, SMD diode	SOD-123	Mouser	0,3	https://www.mouser.fi/ProductDetail/Diodes-Incorporated/1N4148W-7-F?qs=sGAEpiMZZMvilazpv%252bFqvbevgE8TPEOt
+
+1	3 pin header	male 100mil header	Electronics club	0	
+
+1	3 screw terminal	5mm terminal	Johannes	0	
+
+1	2 screw terminal	5mm terminal	Johannes	0	
+
+2	1MOhm resistor	0603?	Electronics club/Johannes	0	
+
+1	470 Ohm resistor	0603	Johannes	0	
+
+2	82kOhm resistor	0603	Johannes	0	
+
+2	120kOhm resistor	0603	Johannes	0	
+
+5	10kOhm resistor	0603	Johannes	0	
+
+1	4,7kOhm resistor	0603	Johannes	0	
+
+5	1kOhm resistor	0603	Johannes	0	
+
+1	0 Ohm resistor	0603	Johannes	0	
+
+1	15kOhm resistor	0603	Johannes	0	
+
+1	100kOhm resistor	0603	Johannes	0	
+
+2	DIP8 socket	DIP8	Johannes	0	
+
+1	DIP14 socket	DIP14	Johannes	0	
+
+1	DIP28 socket	DIP28	Johannes	0	
+
+1	MAX1720 charge pump	TSOP-6	Mouser	0,58	https://www.mouser.fi/ProductDetail/ON-Semiconductor/MAX1720EUTG?qs=sGAEpiMZZMtitjHzVIkrqdfdkrf0Qy0Qzg%252b1DRXikVE%3d
+
+1	HC-05 BT unit	custom	Johannes	0	
+
+1	INA121PA inst. amp.	DIP8	Mouser	4,94	https://www.mouser.fi/ProductDetail/Texas-Instruments/INA121PA?qs=sGAEpiMZZMsE1dKaA2ImUPh%2fgv48%2feoeALcGDSe487k%3d
+
+1	TL072IP op. Amp.	DIP8	Mouser	0,56	https://www.mouser.fi/ProductDetail/Texas-Instruments/TL072IP?qs=5BZzbFV4k2v7IBrcArRPQw==
+
+1	LM324N	DIP14	Mouser	0,43	https://www.mouser.fi/ProductDetail/Texas-Instruments/LM324N?qs=sGAEpiMZZMtCHixnSjNA6Araa3jp4DVB37ZJv3RooEc%3d
+
+1	ATMega 328p	DIP28	Electronics club	0	
+
+1	LM1117 3.3V regulator	TO252	Electronics club	0	
+
+8	button things	button	Johannes	0	
+
+50	Electrodes, 34mm	button	Medkit.fi	14,26	https://www.medkit.fi/ambu-blue-sensor-m-oo-s?___store=finland&nosto=frontpage-nosto-1
+
 
 ## Welcome to GitHub Pages
 
