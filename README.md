@@ -1,8 +1,32 @@
-Pictures to be added, can be found on prints folder
+## W19
+
+On monday the case is printed, also
+project software created and completed as it is very simple. 
+
+With the completetion of SW and receiving of the mesuring electrodes on the last minute
+PROJECT COMPLETED!!!
+
+
+## W18
+
+Testing software created. Extensive testing and simulation done. 
+See baseband testing report and oscilloscope pictures.
+
+## W17
+
+The remaining components soldered and measurements taken to the case.
+During the soldering, some missing traces noticed, but fixed with jump wires.
+Traces missing on the layout.
+
+EKG electrodes ordered from Medkit.
+
+Modeling of the case started.
 
 ## W16
 
 Midterm meeting
+
+Later on the week, components received and first soldered.
 
 ## W15
 
