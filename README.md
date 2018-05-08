@@ -3,7 +3,7 @@
 On monday the case is printed, also
 project software created and completed as it is very simple. 
 
-With the completetion of SW and receiving of the mesuring electrodes on the last minute
+With the completetion of SW with Aruino IDE and receiving of the mesuring electrodes on the last minute
 PROJECT COMPLETED!!!
 
 
@@ -20,7 +20,8 @@ Traces missing on the layout.
 
 EKG electrodes ordered from Medkit.
 
-Modeling of the case started.
+Modeling of the case started with blender.
+Also, modeling of the measuring table started with blender.
 
 ## W16
 
