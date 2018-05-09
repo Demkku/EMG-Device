@@ -6,31 +6,17 @@ project software created and completed as it is very simple.
 With the completetion of SW with Aruino IDE and receiving of the mesuring electrodes on the last minute
 PROJECT COMPLETED!!!
 
-![useful image]({{ site.url }}/assets/code.JPG)
-
-![code]({{ https://github.com/Demkku/EMG-Device/tree/master }}/assets/code.JPG)
-
+1
 ![code]({{ site.url }}/assets/code.JPG)
-<img src="{{ site.baseurl }}https://raw.githubusercontent.com/Demkku/EMG-Device/master/assets/code.JPG">
-![code]({{ site.url }}/assets/code.JPG)
-
-Picture of the completed project:
-<img src="{{ site.baseurl }}https://raw.githubusercontent.com/Demkku/EMG-Device/master/assets/IMG-20180509-WA0000.jpg">
-
-Here is the completed code:
-<img src="{{ site.baseurl }}https://raw.githubusercontent.com/Demkku/EMG-Device/master/assets/code.JPG">
-
-![code]({{ https://github.com/Demkku/EMG-Device/tree/master }}/assets/code.JPG)
-
-![code]({{ site.url }}/assets/code.JPG)
-
+2
 ![code]({{ https://github.com/Demkku/EMG-Device }}/assets/code.JPG)
-
+3
 ![useful image]({{ site.url }}/assets/code.JPG)
-
+4
 ![useful image]({{ site.url }}/assets/code.JPG)
-
+5
 <img src="{{ site.baseurl }}/assets/code.JPG">
+6
 <img src="{{ site.baseurl }}https://raw.githubusercontent.com/Demkku/EMG-Device/master/assets/code.JPG">
 
 uusin1
