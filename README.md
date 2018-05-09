@@ -1,4 +1,4 @@
-##Summary report
+## Summary report
 
 Our final concept was to measure heart rate using voltage sensors that have been amplified and filtered using operational amplifiers. Then the heart rate peak is detected with Arduino and the time difference between the peaks is measured and converted for a servo. Then the servo moves a needle on a measuring table to display the heart rate.
 
