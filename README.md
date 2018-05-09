@@ -20,6 +20,12 @@ Picture of the completed project:
 Here is the completed code:
 <img src="{{ site.baseurl }}https://raw.githubusercontent.com/Demkku/EMG-Device/master/assets/code.JPG">
 
+![code]({{ https://github.com/Demkku/EMG-Device/tree/master }}/assets/code.JPG)
+
+![code]({{ site.url }}/assets/code.JPG)
+
+![code]({{ https://github.com/Demkku/EMG-Device }}/assets/code.JPG)
+
 
 ## W18
 
