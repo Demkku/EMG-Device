@@ -14,11 +14,13 @@ From Inkscape the vector file was exported as a pdf and then printed using a las
 The software was done on Arduino IDE platform. We programmed our code to ATMEGA328p microcontroller using Arduino UNO. The programs purpose was to measure the time difference between every heartbeat and calculate how many times the heart beats in a minute. EKG -sensors had a triangle wave that measured voltage of the heartbeat and it had some noise in it. To get reliable data we had to calculate the time difference between every peak of the voltage signal and not take the noise into account. We made the program to measure only the rising side of the wave and its maximum voltage. That way we got the most reliable data. Then we had to program a correct angle to a servo to display the heartrate on a measuring table.
 
 Lessons learned 
+
 We learned a lot in this project. We learned to use different software like KiCad, Blender, GitHub and Inkscape. We learned that one should always make a second version of the hardware design if any problems would rise. We learned how to use operational amplifiers in practice and how to compare different components to get the best one for its use. We also learned to watch carefully that everything gets correctly imported other software like all of our parts in the circuit board design didn’t get correctly imported to the drilling machine because we used KiCad as our design system.
 
 We learned a good lesson in time management. It would be a lot better to divide the work of the project to entire period so there wouldn’t be such a rush at the end of the period to get everything done.
 
 Our recommendation to others doing the same project is to take your time designing every element of the project carefully so everything goes smoothly when you start building up the project. This project can be a bit difficult so it would be better done in your on pace and not in an introductory course like Principles of digital fabrication.
+
 Feedback to course responsibles
 
  The course was nice. It was good change for our usual courses that are heavily theoretic besed. It helped us to learn new things to designour projects so the course was also quite usefull.
