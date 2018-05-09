@@ -7,7 +7,7 @@ With the completetion of SW with Aruino IDE and receiving of the mesuring electr
 PROJECT COMPLETED!!!
 
 ![code]({{ site.url }}/assets/code.JPG)
-
+<img src="{{ site.baseurl }}/assets/code.JPG">
 
 ## W18
 
