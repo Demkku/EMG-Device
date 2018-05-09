@@ -1,3 +1,4 @@
+final report to be added soon
 ## W19
 
 On monday the case is printed, also
@@ -20,16 +21,26 @@ The code:
 Testing software created. Extensive testing and simulation done. 
 See baseband testing report and oscilloscope pictures.
 
+final output to ADC on simulation, massive hf noise:
+<img src="{{ site.baseurl }}/assets/tek00034.png">
+
+Component values changed and filtering added
+
 ## W17
 
 The remaining components soldered and measurements taken to the case.
 During the soldering, some missing traces noticed, but fixed with jump wires.
 Traces missing on the layout.
 
+<img src="{{ site.baseurl }}/assets/20180508_221511.jpg">
+
 EKG electrodes ordered from Medkit.
 
 Modeling of the case started with blender.
 Also, modeling of the measuring table started with blender.
+
+<img src="{{ site.baseurl }}/assets/KOTELO.png">
+<img src="{{ site.baseurl }}/assets/mittari.png">
 
 ## W16
 
@@ -43,7 +54,9 @@ The idea maybe changed to a heart rate sensor, which can be measured with the sa
 Will be tested when components received, probably on W16 or 17
 
 V2 board Milled with Success!!!
-[picture]
+
+On the left first try, on the right the V2 board
+<img src="{{ site.baseurl }}/assets/20180419_141553.jpg">
 
 Components ordered from Mouser.
 
@@ -52,28 +65,27 @@ Design for an enclosure started, will be 3D printed.
 ## W14
 
 Layout V1 started and completed:
-[picture]
-[picture]
+<img src="{{ site.baseurl }}/assets/wider layout.JPG">
 
 BOM completed.
 
-V1 board milled:
-
-The board failed with board width at 0.4mm and uneven board at milling machine.
+V1 board milled. The board failed with board width at 0.4mm and uneven board at milling machine.
 As a result wire width doubled to 0.8mm wherever possible.
-[picture]
+
 
 
 ## W13
 
-After brainstorming requrements set:
-[add picture here]
+After brainstorming requrements set
+
 
 Kicad schematics started:
-[picture to be added]
+<img src="{{ site.baseurl }}/assets/schematic_incomplete.JPG">
+
 
 Kicad schematics done after a lot of reading about op amps:
-[picture of complete]
+<img src="{{ site.baseurl }}/assets/Schmetic.JPG">
+
 
 
 ## W12
