@@ -30,6 +30,9 @@ Here is the completed code:
 
 ![useful image]({{ site.url }}/assets/code.JPG)
 
+<img src="{{ site.baseurl }}/assets/code.JPG">
+<img src="{{ site.baseurl }}https://raw.githubusercontent.com/Demkku/EMG-Device/master/assets/code.JPG">
+
 ## W18
 
 Testing software created. Extensive testing and simulation done. 
