@@ -33,6 +33,8 @@ Here is the completed code:
 <img src="{{ site.baseurl }}/assets/code.JPG">
 <img src="{{ site.baseurl }}https://raw.githubusercontent.com/Demkku/EMG-Device/master/assets/code.JPG">
 
+uusin1
+
 ## W18
 
 Testing software created. Extensive testing and simulation done. 
