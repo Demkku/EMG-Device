@@ -1,8 +1,33 @@
-final report to be added soon
+##Summary report
+
+Our final concept was to measure heart rate using voltage sensors that have been amplified and filtered using operational amplifiers. Then the heart rate peak is detected with Arduino and the time difference between the peaks is measured and converted for a servo. Then the servo moves a needle on a measuring table to display the heart rate.
+
+Our project consists of 4 elements: a circuit board and a case for it, a measuring table and software to read sensor data and convert into readable data and software to control a servo for the measuring table. 
+
+Johannes designed the circuit board using KiCad. Voltage -sensors didn’t have strong enough signal, so in order to use it properly the signal had to be amplified and filtered using operational amplifiers. The voltage difference in the order of 1mV is measured across the chest with EKG electrodes, +, - and ground. The signal to an instrumental operational amplifier, where common mode noise is rejected, and the signal is amplified. Next, the signal goes through low and high pass filters. After filtering is further amplification and full wave rectification. Last, one more amplifier and then the signal goes to the ADC of ATMEGA328p. 
+
+The case was designed by using Blender. Blender isn’t quite the best software in designing real life objects, but to create a simple and aesthetically nice case wasn’t a problem. The case was designed around the project images exported from Kicad. Some approximation by eye had to be made with components and they were pretty much correct. Only the size of the PCB would have gone terribly wrong if only the Kicad images were followed. The case was finally printed with Fortus 380mc printer. The result was fair, only the bottom was so thin that it cracked a little.
+
+The measuring table was designed with Blender, from which the vector file was imported to Inkscape.
+From Inkscape the vector file was exported as a pdf and then printed using a laser cutter out of plywood. The first cut table was too thick, and the servo couldn’t be put through. The arrow needed a hole for the screw, too. That’s why the table was cut again, and it turned out without problems. The servo was glued on the backside of the table.
+
+The software was done on Arduino IDE platform. We programmed our code to ATMEGA328p microcontroller using Arduino UNO. The programs purpose was to measure the time difference between every heartbeat and calculate how many times the heart beats in a minute. EKG -sensors had a triangle wave that measured voltage of the heartbeat and it had some noise in it. To get reliable data we had to calculate the time difference between every peak of the voltage signal and not take the noise into account. We made the program to measure only the rising side of the wave and its maximum voltage. That way we got the most reliable data. Then we had to program a correct angle to a servo to display the heartrate on a measuring table.
+
+Lessons learned 
+We learned a lot in this project. We learned to use different software like KiCad, Blender, GitHub and Inkscape. We learned that one should always make a second version of the hardware design if any problems would rise. We learned how to use operational amplifiers in practice and how to compare different components to get the best one for its use. We also learned to watch carefully that everything gets correctly imported other software like all of our parts in the circuit board design didn’t get correctly imported to the drilling machine because we used KiCad as our design system.
+
+We learned a good lesson in time management. It would be a lot better to divide the work of the project to entire period so there wouldn’t be such a rush at the end of the period to get everything done.
+
+Our recommendation to others doing the same project is to take your time designing every element of the project carefully so everything goes smoothly when you start building up the project. This project can be a bit difficult so it would be better done in your on pace and not in an introductory course like Principles of digital fabrication.
+Feedback to course responsibles
+
+ The course was nice. It was good change for our usual courses that are heavily theoretic besed. It helped us to learn new things to designour projects so the course was also quite usefull.
+
 ## W19
 
 On monday the case is printed, also
 project software created and completed as it is very simple. 
+The case slightly cracked during removal from the printer.
 
 With the completetion of SW with Aruino IDE and receiving of the mesuring electrodes on the last minute
 PROJECT COMPLETED!!!
