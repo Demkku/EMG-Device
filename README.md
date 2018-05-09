@@ -9,7 +9,7 @@ PROJECT COMPLETED!!!
 the complete project:
 <img src="{{ site.baseurl }}/assets/IMG-20180509-WA0000.jpg">
 
-testing:
+testing after pads finally received:
 <img src="{{ site.baseurl }}/assets/20180508_163325.jpg">
 
 The code:
