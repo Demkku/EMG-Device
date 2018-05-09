@@ -26,6 +26,9 @@ Here is the completed code:
 
 ![code]({{ https://github.com/Demkku/EMG-Device }}/assets/code.JPG)
 
+![useful image]({{ site.url }}/assets/code.JPG)
+
+![useful image]({{ site.url }}/assets/code.JPG)
 
 ## W18
 
