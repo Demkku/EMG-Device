@@ -1,5 +1,7 @@
 ## Summary report
 
+presentation: https://docs.google.com/presentation/d/1xxOuLbYDE3mbfAP0H2NyMZXC_jU_autwXX0Ozza_mss/edit?usp=sharing
+
 Our final concept was to measure heart rate using voltage sensors that have been amplified and filtered using operational amplifiers. Then the heart rate peak is detected with Arduino and the time difference between the peaks is measured and converted for a servo. Then the servo moves a needle on a measuring table to display the heart rate.
 
 Our project consists of 4 elements: a circuit board and a case for it, a measuring table and software to read sensor data and convert into readable data and software to control a servo for the measuring table. 
