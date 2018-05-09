@@ -7,16 +7,21 @@ With the completetion of SW with Aruino IDE and receiving of the mesuring electr
 PROJECT COMPLETED!!!
 
 1
+
 ![code]({{ site.url }}/assets/code.JPG)
 2
+
 ![code]({{ https://github.com/Demkku/EMG-Device }}/assets/code.JPG)
 3
+
 ![useful image]({{ site.url }}/assets/code.JPG)
 4
 ![useful image]({{ site.url }}/assets/code.JPG)
 5
+
 <img src="{{ site.baseurl }}/assets/code.JPG">
 6
+
 <img src="{{ site.baseurl }}https://raw.githubusercontent.com/Demkku/EMG-Device/master/assets/code.JPG">
 
 uusin1
