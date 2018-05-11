@@ -1,6 +1,8 @@
+Everything done, everything up to date and project presented. presentation: https://docs.google.com/presentation/d/1xxOuLbYDE3mbfAP0H2NyMZXC_jU_autwXX0Ozza_mss/edit?usp=sharing
+
 ## Summary report
 
-presentation: https://docs.google.com/presentation/d/1xxOuLbYDE3mbfAP0H2NyMZXC_jU_autwXX0Ozza_mss/edit?usp=sharing
+click [here]({{ site.baseurl }}/assets/EMG summary report.pdf) to download the summary report PDF with pictures and links
 
 Our final concept was to measure heart rate using voltage sensors that have been amplified and filtered using operational amplifiers. Then the heart rate peak is detected with Arduino and the time difference between the peaks is measured and converted for a servo. Then the servo moves a needle on a measuring table to display the heart rate.
 
